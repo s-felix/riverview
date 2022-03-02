@@ -356,6 +356,19 @@ span {
 	}
 
 
+	button.cart {
+	display: block;
+	margin-left: 60px;
+	background-color: var(--primary);
+	border: none;
+	width: 300px;
+	height: 75px;
+	padding: 1rem;
+	font-family: typold_bold;
+	font-size: 36px;
+	color: white;
+	}
+
 	.cart button {
 	display: block;
 	margin-left: 60px;

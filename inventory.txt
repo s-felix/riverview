@@ -1,0 +1,38 @@
+Index
+
+Returning User (23)
+- Room number
+Past Orders
+Order #2301
+- Quantities
+Items Added Overlay
+Cart
+Checkout
+Order Confirmation
+Past Orders (Updated)
+
+New User (24)
+- Room Number
+Past Orders
+Services
+Towels, Linens & More
+Towels & Linens
+Towels
+- Quantities
+Items Added Overlay
+Cart
+Checkout
+Order Confirmation (Same as returning)
+Past Orders (Updated) (Same as returning)
+
+Loading screen for checkout
+
+
+Maybe:
+Help Icons with front desk assistance
+- Help overlay
+-- Help confirmation
+
+Confirmation overlay before logging out
+
+
